@@ -2,11 +2,35 @@
 
 # I am a Data Scientist who loves working where health is a focal sector
 
-- 👋 My name: @LucasDeMatheo
+- 👋 My name: LucasDeMatheo
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 Currently using Python, SQL, Excel and PowerBI 
 - 💞️ I’m looking to collaborate on any project that can helps me to achieve better understanding on Machine Learning Concepts. 
 - 📫 You can reach me through https://www.linkedin.com/in/lucas-de-matheo/ 
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  
+  
+ <a href="https://pt.wikipedia.org/wiki/Microsoft_Excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a> <a href="https://commons.wikimedia.org/w/index.php?search=power+bi&title=Special:MediaSearch&go=Go&type=image" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/640px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a> 
+  
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pt.wikipedia.org/wiki/Microsoft_PowerPoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" alt="PowerPoint" width="40" height="40"/> </a> </p> 
+ 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/lucas-de-matheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-de-matheo" height="30" width="40" /></a>
+</p>
+
+
+
+![DataScience](https://user-images.githubusercontent.com/10830272/150546184-8f54b0dd-f0a1-44d0-b29f-8bf964afdaf2.png)
+
 
 
 <!---
