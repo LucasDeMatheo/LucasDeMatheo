@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @LucasDeMatheo
+![Cover_01_Editada](https://user-images.githubusercontent.com/10830272/150521625-e38dbac6-d1f1-4f5b-8613-710bee48be56.png)
+
+# I am a Data Scientist who loves working where health is a focal sector
+
+- 👋 My name: @LucasDeMatheo
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently using Python, SQL, Excel and PowerBI 
+- 🌱 Currently using Python, SQL, Excel and PowerBI 
 - 💞️ I’m looking to collaborate on any project that can helps me to achieve better understanding on Machine Learning Concepts. 
-      Since my first graduation, I always had biomedical sciences as my lead subject. However, I'm not restrict to it.
 - 📫 You can reach me through https://www.linkedin.com/in/lucas-de-matheo/ 
+
 
 <!---
 LucasDeMatheo/LucasDeMatheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
