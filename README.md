@@ -35,6 +35,7 @@
 
  <a href="https://github.com/LucasDeMatheo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasDeMatheo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> </a>
+  [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDeMatheo)](https://github.com/LucasDeMatheo/github-readme-stats)
     
 <a>  </a>
 <a> ------------------------------------------------------------------------------------------------------------------------------------------ </a>
