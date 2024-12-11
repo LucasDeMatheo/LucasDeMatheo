@@ -1,6 +1,6 @@
-# I am a Data Scientist who loves working on projects that generate value
+👨‍💻 Lucas De Matheo - Data Scientist
+🌟 Passionate about turning data into actionable insights and building machine learning models that deliver value.
 
-- 👋 My name: LucasDeMatheo
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 Currently using Python, SQL, Excel and PowerBI 
 - 💞️ I’m looking to collaborate on any project that can helps me to achieve better understanding on Machine Learning Concepts. 
