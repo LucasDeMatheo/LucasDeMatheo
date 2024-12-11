@@ -1,4 +1,4 @@
-👨‍💻 Lucas De Matheo - Data Scientist
+# 👨‍💻 Lucas De Matheo - Data Scientist  
 🌟 Passionate about turning data into actionable insights and building machine learning models that deliver value.
 
 - 👀 I’m interested in Data Science and Machine Learning
