@@ -31,11 +31,16 @@
 
 <a> ------------------------------------------------------------------------------------------------------------------------------------------ </a>
   
- <a href="https://github.com/LucasDeMatheo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasDeMatheo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> </a>
- 
-  ![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeMatheo&layout=compact)
-<a>   </a>  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/LucasDeMatheo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasDeMatheo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  </a>
+  <a href="https://github.com/LucasDeMatheo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasDeMatheo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeMatheo&layout=compact"/>
+</div>
+
   
 <a> ------------------------------------------------------------------------------------------------------------------------------------------ </a>
 
